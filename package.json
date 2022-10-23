@@ -2,7 +2,7 @@
   "name": "ombd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SergiiMost.github.io/",
+  "homepage": "https://SergiiMost.github.io/ombd",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@mantine/core": "^5.6.1",
