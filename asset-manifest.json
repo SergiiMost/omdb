@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ombd/static/css/main.e6c13ad2.css",
+    "main.js": "/ombd/static/js/main.66d251fd.js",
+    "static/js/787.4a1931f8.chunk.js": "/ombd/static/js/787.4a1931f8.chunk.js",
+    "static/media/poster-na.svg": "/ombd/static/media/poster-na.360e7c1f23bbc79d6dd51d73113cec91.svg",
+    "index.html": "/ombd/index.html",
+    "main.e6c13ad2.css.map": "/ombd/static/css/main.e6c13ad2.css.map",
+    "main.66d251fd.js.map": "/ombd/static/js/main.66d251fd.js.map",
+    "787.4a1931f8.chunk.js.map": "/ombd/static/js/787.4a1931f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.66d251fd.js"
+  ]
+}
