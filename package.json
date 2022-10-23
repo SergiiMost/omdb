@@ -2,10 +2,12 @@
   "name": "ombd",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://SergiiMost.github.io/ombd",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@mantine/core": "^5.6.1",
     "@mantine/hooks": "^5.6.1",
+    "@tabler/icons": "^1.106.0",
     "@tanstack/react-query": "^4.13.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -24,7 +26,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
